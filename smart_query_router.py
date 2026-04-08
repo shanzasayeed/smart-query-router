@@ -83,4 +83,4 @@ if __name__ == "__main__":
         print(f"  Handled  : {result['metadata']['handled_by']}")
         print(f"\n  🤖 RESPONSE:\n  {result['response'][:200]}...")
         print(f"{'═'*55}")
-        if i < len(test_queries): input("\n  Press Enter for next...")
+        if i < len(test_queries): input("\n  Press Enter for next...")                                                                                                                                                                                                                                                                  
